@@ -1,0 +1,18 @@
+Presentation -
+
+Problem
+Why
+
+Approach to collect data
+Implementation
+Libraries
+Dataset
+
+Graphs
+Plots
+Wordcloud
+
+Results
+Conclusions
+
+Solution

@@ -1,0 +1,287 @@
+author,body,body_html,created_utc,distinguished,edited,id,is_submitter,link_id,parent_id,score,stickied
+u/9okm,"In 2020-2021, mining and isolation caused a massive spike in GPU demand.  Prices went up.  GPU manufacturers (particularly Nvidia) really liked that.  They don't want to let that go.","<div class=""md""><p>In 2020-2021, mining and isolation caused a massive spike in GPU demand.  Prices went up.  GPU manufacturers (particularly Nvidia) really liked that.  They don&#39;t want to let that go.</p>
+</div>",2023-03-30 12:14:28,,false,jeaf4q6,false,t3_126rjun,t3_126rjun,19,false
+u/Cryostatica,"The 3060 got 12gb because of it's 192-bit memory interface. Options were 6gb or 12gb.
+
+The original intent through design was to sell it with 6GB of VRAM, but in practice it was a bit slimmer in performance than expected, and so it was switched to 12gb in production.
+
+Do note that nvidia has released a 128-bit version of the 3060 version with 8gb, and that this is what they'd likely have originally released if it wouldn't have required a massive change in production to switch.","<div class=""md""><p>The 3060 got 12gb because of it&#39;s 192-bit memory interface. Options were 6gb or 12gb.</p>
+
+<p>The original intent through design was to sell it with 6GB of VRAM, but in practice it was a bit slimmer in performance than expected, and so it was switched to 12gb in production.</p>
+
+<p>Do note that nvidia has released a 128-bit version of the 3060 version with 8gb, and that this is what they&#39;d likely have originally released if it wouldn&#39;t have required a massive change in production to switch.</p>
+</div>",2023-03-30 12:29:44,,false,jeahibp,false,t3_126rjun,t3_126rjun,8,false
+[deleted],"corporate greed.
+
+enjoy!","<div class=""md""><p>corporate greed.</p>
+
+<p>enjoy!</p>
+</div>",2023-03-30 12:13:28,,false,jeaez5o,false,t3_126rjun,t3_126rjun,12,false
+u/DJ_Marxman,"> Why is the 3060 so cheap still?
+
+It isn't. It's an almost $400 lower-mid-range GPU.
+
+> I want to know why the 3060 is so much cheaper than other 30XX and 40XX cards to this day
+
+The 3060 is likely still being produced. Higher-end 30 series GPUs are not being produced anymore, because they've been replaced in the product stack with more profitable 40 series GPUs.","<div class=""md""><blockquote>
+<p>Why is the 3060 so cheap still?</p>
+</blockquote>
+
+<p>It isn&#39;t. It&#39;s an almost $400 lower-mid-range GPU.</p>
+
+<blockquote>
+<p>I want to know why the 3060 is so much cheaper than other 30XX and 40XX cards to this day</p>
+</blockquote>
+
+<p>The 3060 is likely still being produced. Higher-end 30 series GPUs are not being produced anymore, because they&#39;ve been replaced in the product stack with more profitable 40 series GPUs.</p>
+</div>",2023-03-30 12:38:57,,false,jeaixpr,false,t3_126rjun,t3_126rjun,6,false
+u/Zarerion,"OP is just mistaking VRAM for clock speeds and overall performance. The 3060 has 12 GB of VRAM, but doesn’t actually have the same computing power that other cards with that amount of memory have. Realistically, it will never max out it’s VRAM usage because the card just isn’t fast enough.","<div class=""md""><p>OP is just mistaking VRAM for clock speeds and overall performance. The 3060 has 12 GB of VRAM, but doesn’t actually have the same computing power that other cards with that amount of memory have. Realistically, it will never max out it’s VRAM usage because the card just isn’t fast enough.</p>
+</div>",2023-03-30 12:58:22,,false,jealzov,false,t3_126rjun,t3_126rjun,6,false
+u/nullusx,"I could write a dissertation on the subject, but lets be honest, its just basic corporate greed. And the 3060 isnt cheap either, its a wrong assumption on your part.","<div class=""md""><p>I could write a dissertation on the subject, but lets be honest, its just basic corporate greed. And the 3060 isnt cheap either, its a wrong assumption on your part.</p>
+</div>",2023-03-30 13:42:36,,false,jeasxqx,false,t3_126rjun,t3_126rjun,3,false
+u/Narrheim,"3060 has a bus limitation, which only allowed them to pair it with either 6 or 12GB of VRAM, thus they decided to go with the latter.","<div class=""md""><p>3060 has a bus limitation, which only allowed them to pair it with either 6 or 12GB of VRAM, thus they decided to go with the latter.</p>
+</div>",2023-03-30 13:48:30,,false,jeatv7y,false,t3_126rjun,t3_126rjun,2,false
+u/DingWrong,"Cause it's slow. 12GB of VRAM is a gift for it. 3060 just does not need that much.
+
+.. but yes, it is very nice to have for things like SD and NLPs
+
+I use 3060 and A4000. Let me know if you have questions. I will try to answer.","<div class=""md""><p>Cause it&#39;s slow. 12GB of VRAM is a gift for it. 3060 just does not need that much.</p>
+
+<p>.. but yes, it is very nice to have for things like SD and NLPs</p>
+
+<p>I use 3060 and A4000. Let me know if you have questions. I will try to answer.</p>
+</div>",2023-03-30 15:57:11,,false,jebe2w6,false,t3_126rjun,t3_126rjun,2,false
+u/EloquentBorb,"Multi billion dollar companies like money, end of story.
+
+Might be a tinfoil hat theory so take it with a grain of salt, but I'd say the only reason the 3060 got 12GB of GDDR6 (non X) was to be more appealing to crypto miners. The 8GB on everything else up to and including the 3070Ti is planned obsolescence and even the 3080 10GB is hard to defend.","<div class=""md""><p>Multi billion dollar companies like money, end of story.</p>
+
+<p>Might be a tinfoil hat theory so take it with a grain of salt, but I&#39;d say the only reason the 3060 got 12GB of GDDR6 (non X) was to be more appealing to crypto miners. The 8GB on everything else up to and including the 3070Ti is planned obsolescence and even the 3080 10GB is hard to defend.</p>
+</div>",2023-03-30 12:16:50,,false,jeafi20,false,t3_126rjun,t3_126rjun,1,false
+u/Amazingawesomator,"Duopoly problem: if the larger company arbitrarily raises their price for the sake of profits, the other one can, too... As long as their product ""seems like"" a good value when compared to the other product.
+
+I hope intel will shatter the duopoly and bring prices down, but we are all still waiting with bated breath for a decent intel release.
+
+Edit: to show that it is just recent greed, look at the stock prices. (Click max timeline on the graphs)
+
+AMD: https://finance.yahoo.com/quote/AMD/
+NVidia: https://finance.yahoo.com/quote/NVDA/","<div class=""md""><p>Duopoly problem: if the larger company arbitrarily raises their price for the sake of profits, the other one can, too... As long as their product &quot;seems like&quot; a good value when compared to the other product.</p>
+
+<p>I hope intel will shatter the duopoly and bring prices down, but we are all still waiting with bated breath for a decent intel release.</p>
+
+<p>Edit: to show that it is just recent greed, look at the stock prices. (Click max timeline on the graphs)</p>
+
+<p>AMD: <a href=""https://finance.yahoo.com/quote/AMD/"">https://finance.yahoo.com/quote/AMD/</a>
+NVidia: <a href=""https://finance.yahoo.com/quote/NVDA/"">https://finance.yahoo.com/quote/NVDA/</a></p>
+</div>",2023-03-30 12:26:24,,2023-03-30 12:30:49,jeagzns,false,t3_126rjun,t3_126rjun,1,false
+u/theelectricmayor,"> And then there's the 3060 with 12 GB
+
+GPUs heavily rely on multiple memory channels to handle the amount of pixel data that needs to be fed into them. You'll often see the memory interface width advertised (ie. 256-bit, 384-bit) in connection with performance. 
+
+If you take that number and divide it by 32 you'll get the number of memory channels on the GPU (each one being a controller element and a block of cache), and for the card to perform well each channel should be attached to an equal sized ram chip.
+
+If you look at the 12GB 3060 you'll notice that it has a 192-bit interface which means 6 channels. If you used 1GB ram chips then you'd only have 6GB. Apparently NVidia decided that 6GB wasn't enough to compete with AMD in the same segment (maybe they thought it would be enough during development and only realized when AMD released a competitor first). However the next available ram chip is 2GB so they had to go to 12GB in total. This is far from the first time someone's gotten weird memory sizes due to the number of channels.
+
+There are two other variants. The 3060 Ti is 256-bit which means it has 8 channels and makes it easy to hit a target of 8GB exactly. There is also an 8GB varient of the 3060 however you'll notice it's only 128-bit - 2 channels are being left empty so they can use less RAM. This decreases the cost but having only 4 channels bottlenecks the card's performance compared to the 6 channel 12GB and especially the 8 channel 8GB versions.","<div class=""md""><blockquote>
+<p>And then there&#39;s the 3060 with 12 GB</p>
+</blockquote>
+
+<p>GPUs heavily rely on multiple memory channels to handle the amount of pixel data that needs to be fed into them. You&#39;ll often see the memory interface width advertised (ie. 256-bit, 384-bit) in connection with performance. </p>
+
+<p>If you take that number and divide it by 32 you&#39;ll get the number of memory channels on the GPU (each one being a controller element and a block of cache), and for the card to perform well each channel should be attached to an equal sized ram chip.</p>
+
+<p>If you look at the 12GB 3060 you&#39;ll notice that it has a 192-bit interface which means 6 channels. If you used 1GB ram chips then you&#39;d only have 6GB. Apparently NVidia decided that 6GB wasn&#39;t enough to compete with AMD in the same segment (maybe they thought it would be enough during development and only realized when AMD released a competitor first). However the next available ram chip is 2GB so they had to go to 12GB in total. This is far from the first time someone&#39;s gotten weird memory sizes due to the number of channels.</p>
+
+<p>There are two other variants. The 3060 Ti is 256-bit which means it has 8 channels and makes it easy to hit a target of 8GB exactly. There is also an 8GB varient of the 3060 however you&#39;ll notice it&#39;s only 128-bit - 2 channels are being left empty so they can use less RAM. This decreases the cost but having only 4 channels bottlenecks the card&#39;s performance compared to the 6 channel 12GB and especially the 8 channel 8GB versions.</p>
+</div>",2023-03-30 12:33:28,,false,jeai2zj,false,t3_126rjun,t3_126rjun,1,false
+u/nroloa,"Big corpo be greedy. They really loved the corona/cryptofever times when they could charge whatever and make nonsensical Ti variants that were barely faster than the OG version but cost significantly more and there were people more than willing to pay. Now they want to make that the new normal.
+
+If the second half of your question talks about the 3060 then no, not really. It was mostly just a marketing move to make the card more appealing to certain groups. It has a big VRAM but the GPU core itself is fairly unimpressive and the memory also isn't very fast.","<div class=""md""><p>Big corpo be greedy. They really loved the corona/cryptofever times when they could charge whatever and make nonsensical Ti variants that were barely faster than the OG version but cost significantly more and there were people more than willing to pay. Now they want to make that the new normal.</p>
+
+<p>If the second half of your question talks about the 3060 then no, not really. It was mostly just a marketing move to make the card more appealing to certain groups. It has a big VRAM but the GPU core itself is fairly unimpressive and the memory also isn&#39;t very fast.</p>
+</div>",2023-03-30 12:35:22,,false,jeaidpx,false,t3_126rjun,t3_126rjun,1,false
+u/psimwork,"Basically this. When the 3080 launched at $699, it was hailed as an insane value. But pandemic + mining basically showed what people were willing to pay for graphics cards, and Nvidia was like, ""Shit - people are willing to pay $1200 for a 3080?? We thought we were stretching it by doing $1600 for a 3090. Why should scalpers be getting that extra $500?? We should be getting that shit!""
+
+And so the next generation launched, and Nvidia was like, ""Alrighty - let's see how much people want this"", and unfortunately, the fact that the 4080's and 4090's are commonly above MSRP or sold out has proven them right.","<div class=""md""><p>Basically this. When the 3080 launched at $699, it was hailed as an insane value. But pandemic + mining basically showed what people were willing to pay for graphics cards, and Nvidia was like, &quot;Shit - people are willing to pay $1200 for a 3080?? We thought we were stretching it by doing $1600 for a 3090. Why should scalpers be getting that extra $500?? We should be getting that shit!&quot;</p>
+
+<p>And so the next generation launched, and Nvidia was like, &quot;Alrighty - let&#39;s see how much people want this&quot;, and unfortunately, the fact that the 4080&#39;s and 4090&#39;s are commonly above MSRP or sold out has proven them right.</p>
+</div>",2023-03-30 12:28:20,,false,jeahaeg,false,t3_126rjun,t1_jeaf4q6,5,false
+u/SeptimusAstrum,"Then why haven't old stock 3060s risen in price to reach the new market level?
+
+What is locking them down at $350?","<div class=""md""><p>Then why haven&#39;t old stock 3060s risen in price to reach the new market level?</p>
+
+<p>What is locking them down at $350?</p>
+</div>",2023-03-30 12:28:43,,false,jeahcii,true,t3_126rjun,t1_jeaf4q6,3,false
+u/SeptimusAstrum,"so it essentially got supercharged by accident, and they just didn't bother changing the price?
+
+what's stopping the secondary market from driving up its price to match the ball park of other cards?
+
+do you think a 12GB 3060 is a good buy? or do you think it would be smarter to go for something like a 3080 TI, or a 40XX with 10+ GB considering the ""other improvements"" to the card beyond the VRAM?
+
+FWIW: the general wisdom in my lab is that the 40XX cards aren't worth it for ML because you're still bottlenecked by having roughly the same amount of VRAM. Our lab computers mostly use 3080 Tis or various TPUs.","<div class=""md""><p>so it essentially got supercharged by accident, and they just didn&#39;t bother changing the price?</p>
+
+<p>what&#39;s stopping the secondary market from driving up its price to match the ball park of other cards?</p>
+
+<p>do you think a 12GB 3060 is a good buy? or do you think it would be smarter to go for something like a 3080 TI, or a 40XX with 10+ GB considering the &quot;other improvements&quot; to the card beyond the VRAM?</p>
+
+<p>FWIW: the general wisdom in my lab is that the 40XX cards aren&#39;t worth it for ML because you&#39;re still bottlenecked by having roughly the same amount of VRAM. Our lab computers mostly use 3080 Tis or various TPUs.</p>
+</div>",2023-03-30 12:37:36,,false,jeaiq2v,true,t3_126rjun,t1_jeahibp,2,false
+u/9okm,Interesting about the 128-bit 3060!  Didn't know that existed.,"<div class=""md""><p>Interesting about the 128-bit 3060!  Didn&#39;t know that existed.</p>
+</div>",2023-03-30 12:38:32,,false,jeaivd7,false,t3_126rjun,t1_jeahibp,1,false
+u/SeptimusAstrum,"Then why haven't old stock 3060s risen in price to reach the new market level?
+
+What is locking them down at $350?","<div class=""md""><p>Then why haven&#39;t old stock 3060s risen in price to reach the new market level?</p>
+
+<p>What is locking them down at $350?</p>
+</div>",2023-03-30 12:28:40,,false,jeahc99,true,t3_126rjun,t1_jeaez5o,0,false
+u/SeptimusAstrum,"FWIW VRAM is massively important in ML, regardless of clock speed, because the datasets we work with are potentially ungodly in size.
+
+This is why I'm kinda surprised by the 3060 in particular. It seems like such an outlier that might be unusually good for ML.","<div class=""md""><p>FWIW VRAM is massively important in ML, regardless of clock speed, because the datasets we work with are potentially ungodly in size.</p>
+
+<p>This is why I&#39;m kinda surprised by the 3060 in particular. It seems like such an outlier that might be unusually good for ML.</p>
+</div>",2023-03-30 13:03:39,,false,jeamtll,true,t3_126rjun,t1_jealzov,2,false
+u/SeptimusAstrum,You're living in the past. Its by far the cheapest cuda capable card with 12GB VRAM.,"<div class=""md""><p>You&#39;re living in the past. Its by far the cheapest cuda capable card with 12GB VRAM.</p>
+</div>",2023-03-30 17:14:54,,false,jebqdbg,true,t3_126rjun,t1_jeasxqx,1,false
+u/SeptimusAstrum,Should I just suck it up and get an A4000? You're the 3rd person to mention it in this thread.,"<div class=""md""><p>Should I just suck it up and get an A4000? You&#39;re the 3rd person to mention it in this thread.</p>
+</div>",2023-03-30 17:19:55,,false,jebr4x5,true,t3_126rjun,t1_jebe2w6,1,false
+u/SeptimusAstrum,"Then why haven't old stock 3060s risen in price to reach the new market level?
+
+What is locking them down at $350?","<div class=""md""><p>Then why haven&#39;t old stock 3060s risen in price to reach the new market level?</p>
+
+<p>What is locking them down at $350?</p>
+</div>",2023-03-30 12:29:31,,false,jeahh1g,true,t3_126rjun,t1_jeafi20,1,false
+u/SeptimusAstrum,"So in your humble opinion, the savings from going with a 12GB 3060 are probably not worth dealing with the inferior number of channels and/or inferior cores?","<div class=""md""><p>So in your humble opinion, the savings from going with a 12GB 3060 are probably not worth dealing with the inferior number of channels and/or inferior cores?</p>
+</div>",2023-03-30 12:46:51,,false,jeak691,true,t3_126rjun,t1_jeai2zj,1,false
+u/9okm,"3060 was always an odd duck.  Not quite enough power to justify the 12gb.  Nvidia felt like they had no choice (apparently it was originally supposed to be 6gb).  They had to match AMD (6700 XT).  That's my take, at least.","<div class=""md""><p>3060 was always an odd duck.  Not quite enough power to justify the 12gb.  Nvidia felt like they had no choice (apparently it was originally supposed to be 6gb).  They had to match AMD (6700 XT).  That&#39;s my take, at least.</p>
+</div>",2023-03-30 12:34:22,,false,jeai7zl,false,t3_126rjun,t1_jeahcii,10,false
+u/Bluedot55,"Because they are at the same price as an AMD card that's 35% faster. If they got any more expensive, people would just ignore them. They are already a pretty bad deal as is. Nvidia has basically abandoned the low end at this point. Hopefully the 40 series will have some decent offerings. 
+
+The 3060 also has an unusually high amount of memory, more then the 3060ti, 3070, or 3080. That's because it could either have 6gb or 12 gb, with how the card is designed. And 6 is just not useable","<div class=""md""><p>Because they are at the same price as an AMD card that&#39;s 35% faster. If they got any more expensive, people would just ignore them. They are already a pretty bad deal as is. Nvidia has basically abandoned the low end at this point. Hopefully the 40 series will have some decent offerings. </p>
+
+<p>The 3060 also has an unusually high amount of memory, more then the 3060ti, 3070, or 3080. That&#39;s because it could either have 6gb or 12 gb, with how the card is designed. And 6 is just not useable</p>
+</div>",2023-03-30 12:41:51,,false,jeaje5g,false,t3_126rjun,t1_jeahcii,6,false
+u/Pineappl3z,Personally I'd recommend getting a used RTX A4000 for ~$500.  It has 16GB of VRAM and outperforms the GTX 1080ti. Although the memory bus is smaller. It does have a bigger bus width than the RTX 3060 12GB. It uses the same die as the RTX 3070ti while using half the power.,"<div class=""md""><p>Personally I&#39;d recommend getting a used RTX A4000 for ~$500.  It has 16GB of VRAM and outperforms the GTX 1080ti. Although the memory bus is smaller. It does have a bigger bus width than the RTX 3060 12GB. It uses the same die as the RTX 3070ti while using half the power.</p>
+</div>",2023-03-30 13:06:08,,false,jean7og,false,t3_126rjun,t1_jeaiq2v,5,false
+u/Sevinki,"Most people buy geforce cards for gaming, and in gaming tasks the 3060 with 12gb is usually slower than a 3060ti with 8gb because vram isnt that important in games. That is changing recently, but overall a 3060 wouldnt be worth it if it cost more because you can just get something faster.","<div class=""md""><p>Most people buy geforce cards for gaming, and in gaming tasks the 3060 with 12gb is usually slower than a 3060ti with 8gb because vram isnt that important in games. That is changing recently, but overall a 3060 wouldnt be worth it if it cost more because you can just get something faster.</p>
+</div>",2023-03-30 15:10:34,,false,jeb6r82,false,t3_126rjun,t1_jeaiq2v,2,false
+u/No-Actuator-6245,"It’s a really weak card by today’s standards that from a gaming perspective has no chance of ever utilising 12GB VRAM, that was bolted on purely for marketing.","<div class=""md""><p>It’s a really weak card by today’s standards that from a gaming perspective has no chance of ever utilising 12GB VRAM, that was bolted on purely for marketing.</p>
+</div>",2023-03-30 12:43:58,,false,jeajq4w,false,t3_126rjun,t1_jeahc99,6,false
+u/nroloa,I'd say the competition. It was never really all that powerful to begin with and there were both same-gen and older-gen cards that could do pretty much the same thing so it had a lot of competitors. You could kinda justify price hikes in the high-end but good luck price gouging something that doesn't even really beat a 2060 Super.,"<div class=""md""><p>I&#39;d say the competition. It was never really all that powerful to begin with and there were both same-gen and older-gen cards that could do pretty much the same thing so it had a lot of competitors. You could kinda justify price hikes in the high-end but good luck price gouging something that doesn&#39;t even really beat a 2060 Super.</p>
+</div>",2023-03-30 12:55:12,,false,jealhxx,false,t3_126rjun,t1_jeahc99,2,false
+[deleted],because that is not optimal marketing strategy,"<div class=""md""><p>because that is not optimal marketing strategy</p>
+</div>",2023-03-30 12:38:44,,false,jeaiwj2,false,t3_126rjun,t1_jeahc99,1,false
+u/9okm,"3060 is great for professional use cases that need VRAM.  I've heard it's popular for creative pros in particular (Adobe suite, etc.). 
+
+Search around r/MachineLearning, see what people recommend.
+
+[https://www.reddit.com/r/MachineLearning/comments/tbsldk/d\_does\_the\_rtx\_3060\_work\_reasonably\_well\_for\_deep/](https://www.reddit.com/r/MachineLearning/comments/tbsldk/d_does_the_rtx_3060_work_reasonably_well_for_deep/)","<div class=""md""><p>3060 is great for professional use cases that need VRAM.  I&#39;ve heard it&#39;s popular for creative pros in particular (Adobe suite, etc.). </p>
+
+<p>Search around <a href=""/r/MachineLearning"">r/MachineLearning</a>, see what people recommend.</p>
+
+<p><a href=""https://www.reddit.com/r/MachineLearning/comments/tbsldk/d_does_the_rtx_3060_work_reasonably_well_for_deep/"">https://www.reddit.com/r/MachineLearning/comments/tbsldk/d_does_the_rtx_3060_work_reasonably_well_for_deep/</a></p>
+</div>",2023-03-30 13:30:06,,2023-03-30 13:34:58,jeaqz0h,false,t3_126rjun,t1_jeamtll,1,false
+u/nullusx,"If you are only interested in the vram aspect, sure I guess. But when you look at the number of CUDA cores that are actually on the die, you wont get good performance for the 12GB that the card has. And if the rumours are true and the 4070 will actually launch at 550$ msrp with 12GB vram... The 3060 will still be cheaper, but it will get destroyed in compute heavy tasks and games by the 4070 for ""only"" 150$ more","<div class=""md""><p>If you are only interested in the vram aspect, sure I guess. But when you look at the number of CUDA cores that are actually on the die, you wont get good performance for the 12GB that the card has. And if the rumours are true and the 4070 will actually launch at 550$ msrp with 12GB vram... The 3060 will still be cheaper, but it will get destroyed in compute heavy tasks and games by the 4070 for &quot;only&quot; 150$ more</p>
+</div>",2023-03-30 18:27:15,,false,jec13m0,false,t3_126rjun,t1_jebqdbg,2,false
+u/DingWrong,Depends on the price you can ger it at. Regular price is close to 4080 so this might be a better option.,"<div class=""md""><p>Depends on the price you can ger it at. Regular price is close to 4080 so this might be a better option.</p>
+</div>",2023-03-31 00:06:19,,false,jed8paw,false,t3_126rjun,t1_jebr4x5,1,false
+u/EloquentBorb,Not sure what you mean. At 350$ the 3060 is already terrible value considering the offers from AMD and Intel at a comparable price point. Add the fact the 3060Ti is residing at just a bit over 400$ whilst being a vastly more capable GPU compared to its non-Ti sibling and you end up in a situation where it simply wouldn't sell at all at an even higher price point.,"<div class=""md""><p>Not sure what you mean. At 350$ the 3060 is already terrible value considering the offers from AMD and Intel at a comparable price point. Add the fact the 3060Ti is residing at just a bit over 400$ whilst being a vastly more capable GPU compared to its non-Ti sibling and you end up in a situation where it simply wouldn&#39;t sell at all at an even higher price point.</p>
+</div>",2023-03-30 12:36:29,,false,jeaijxa,false,t3_126rjun,t1_jeahh1g,4,false
+u/theelectricmayor,"Actually for your use case quite the opposite. The fact that NVidia had to go with 12GB is a problem for *them* since they hadn't anticipated AMD would increase VRAM in that segment so quickly.
+
+Now if you were buying the card strictly for gaming it might not be be a great value - you're paying for an extra 4GB you don't need in that performance class and there's something of an NVidia tax on top of that too. In that price range AMD is simply a better buy for gamers.
+
+But for AI training it's a fantastic deal if you don't have $1000+ to throw around. For AI that extra VRAM is crucial and normally NVidia and AMD would make you pay a premium to get it. NVidia's misstep lets you get the workstation class VRAM you need (oh and install the studio drivers too) while only paying for the speed you can actually afford.","<div class=""md""><p>Actually for your use case quite the opposite. The fact that NVidia had to go with 12GB is a problem for <em>them</em> since they hadn&#39;t anticipated AMD would increase VRAM in that segment so quickly.</p>
+
+<p>Now if you were buying the card strictly for gaming it might not be be a great value - you&#39;re paying for an extra 4GB you don&#39;t need in that performance class and there&#39;s something of an NVidia tax on top of that too. In that price range AMD is simply a better buy for gamers.</p>
+
+<p>But for AI training it&#39;s a fantastic deal if you don&#39;t have $1000+ to throw around. For AI that extra VRAM is crucial and normally NVidia and AMD would make you pay a premium to get it. NVidia&#39;s misstep lets you get the workstation class VRAM you need (oh and install the studio drivers too) while only paying for the speed you can actually afford.</p>
+</div>",2023-03-30 13:29:32,,false,jeaqvqa,false,t3_126rjun,t1_jeak691,2,false
+u/markmorto,"I just got an A4000 and highly recommend it. Benchmarks are on par with my RTX 3070, with twice as much memory. The smaller size and lower power requirements are just extra bonuses.","<div class=""md""><p>I just got an A4000 and highly recommend it. Benchmarks are on par with my RTX 3070, with twice as much memory. The smaller size and lower power requirements are just extra bonuses.</p>
+</div>",2023-03-30 16:34:13,,false,jebjyof,false,t3_126rjun,t1_jean7og,2,false
+u/SeptimusAstrum,Is there anything unusual I have to be aware of when building the rig?,"<div class=""md""><p>Is there anything unusual I have to be aware of when building the rig?</p>
+</div>",2023-03-30 17:19:18,,false,jebr1jo,true,t3_126rjun,t1_jean7og,1,false
+u/SeptimusAstrum,"Oh I hadn't considered that the lower end 30XXs would be directly competing with cards from older generations.
+
+That said, I vaguely remember the high end 10XX cards going for like  $600? With that comparison, the 3060 looks ""half price.""","<div class=""md""><p>Oh I hadn&#39;t considered that the lower end 30XXs would be directly competing with cards from older generations.</p>
+
+<p>That said, I vaguely remember the high end 10XX cards going for like  $600? With that comparison, the 3060 looks &quot;half price.&quot;</p>
+</div>",2023-03-30 13:07:18,,false,jeane5t,true,t3_126rjun,t1_jealhxx,0,false
+u/SeptimusAstrum,"> Search around r/MachineLearning, see what people recommend.
+
+I get you, but that subreddit sucks. 2.6 million subscribers. I would be surprised if there are 2.6 million people working on machine learning on the entire earth.","<div class=""md""><blockquote>
+<p>Search around <a href=""/r/MachineLearning"">r/MachineLearning</a>, see what people recommend.</p>
+</blockquote>
+
+<p>I get you, but that subreddit sucks. 2.6 million subscribers. I would be surprised if there are 2.6 million people working on machine learning on the entire earth.</p>
+</div>",2023-03-30 17:17:11,,false,jebqq4j,true,t3_126rjun,t1_jeaqz0h,1,false
+u/SeptimusAstrum,"> if the rumours are true and the 4070 will actually launch at 550$ msrp with 12GB vram
+
+honestly that's great news","<div class=""md""><blockquote>
+<p>if the rumours are true and the 4070 will actually launch at 550$ msrp with 12GB vram</p>
+</blockquote>
+
+<p>honestly that&#39;s great news</p>
+</div>",2023-03-30 19:15:17,,false,jec7ur3,true,t3_126rjun,t1_jec13m0,1,false
+u/SeptimusAstrum,"So you're saying the 12GB 3060 is ""price locked"" by competition from AMD?
+
+But then when it comes to higher tier cards, both companies just agree to run prices way up into the thousands? Or has Nvidia just found a justification for that on their own?","<div class=""md""><p>So you&#39;re saying the 12GB 3060 is &quot;price locked&quot; by competition from AMD?</p>
+
+<p>But then when it comes to higher tier cards, both companies just agree to run prices way up into the thousands? Or has Nvidia just found a justification for that on their own?</p>
+</div>",2023-03-30 12:43:19,,false,jeajmdz,true,t3_126rjun,t1_jeaijxa,1,false
+u/Pineappl3z,"Nope. It's just like any other GPU. Only It's a single slot width. It uses a standard PCIe 4.0×16 interface. 
+
+-[EBAY listings <$500](https://www.ebay.com/sch/i.html?_nkw=rtx+a4000&_sacat=27386&LH_PrefLoc=2&_sop=15&_udlo=420&_udhi=520&LH_ItemCondition=3000%7C1500&Memory%2520Size=16%2520GB&Brand=NVIDIA%7CPNY&_dcat=27386)","<div class=""md""><p>Nope. It&#39;s just like any other GPU. Only It&#39;s a single slot width. It uses a standard PCIe 4.0×16 interface. </p>
+
+<p>-<a href=""https://www.ebay.com/sch/i.html?_nkw=rtx+a4000&amp;_sacat=27386&amp;LH_PrefLoc=2&amp;_sop=15&amp;_udlo=420&amp;_udhi=520&amp;LH_ItemCondition=3000%7C1500&amp;Memory%2520Size=16%2520GB&amp;Brand=NVIDIA%7CPNY&amp;_dcat=27386"">EBAY listings &lt;$500</a></p>
+</div>",2023-03-30 17:47:08,,2023-03-30 17:51:02,jebv8lk,false,t3_126rjun,t1_jebr1jo,2,false
+u/Sn4rkPl4y3r,"Why they wouldn't? That has been a pattern for years and NVIDIA used Samsung's ""8 nm"" to save a buck in the 3000 series instead of using TSMC's 7 nm so they didn't had enough headroom to increase performance drastically without increasing power consumption considerably (They still needed to do that with the RTX 3080, 3090 and specially 3090 Ti), that may be one of the reasons the 3060 wasn't a big upgrade from last gen mid range GPUs (RTX 2060 Super and 2070) besides more VRAM and a tad better RT.","<div class=""md""><p>Why they wouldn&#39;t? That has been a pattern for years and NVIDIA used Samsung&#39;s &quot;8 nm&quot; to save a buck in the 3000 series instead of using TSMC&#39;s 7 nm so they didn&#39;t had enough headroom to increase performance drastically without increasing power consumption considerably (They still needed to do that with the RTX 3080, 3090 and specially 3090 Ti), that may be one of the reasons the 3060 wasn&#39;t a big upgrade from last gen mid range GPUs (RTX 2060 Super and 2070) besides more VRAM and a tad better RT.</p>
+</div>",2023-03-30 20:19:02,,false,jecglpz,false,t3_126rjun,t1_jeane5t,1,false
+u/9okm,Hah. Fair enough.,"<div class=""md""><p>Hah. Fair enough.</p>
+</div>",2023-03-30 17:30:56,,false,jebssfs,false,t3_126rjun,t1_jebqq4j,1,false
+u/nullusx,"I wouldnt consider it great, but its a step in the right direction. However I wouldnt hold my breath, need to actually see the official pricing first and not from some leaks. Also some videocardz just published an article that says the MSRP will be 599$","<div class=""md""><p>I wouldnt consider it great, but its a step in the right direction. However I wouldnt hold my breath, need to actually see the official pricing first and not from some leaks. Also some videocardz just published an article that says the MSRP will be 599$</p>
+</div>",2023-03-30 19:20:32,,false,jec8lbr,false,t3_126rjun,t1_jec7ur3,1,false
+u/9okm,"Yes and yes.
+
+This is why people are so hopeful that Intel's GPUs pan out.  We need a third option in the midrange to help temper the other two.","<div class=""md""><p>Yes and yes.</p>
+
+<p>This is why people are so hopeful that Intel&#39;s GPUs pan out.  We need a third option in the midrange to help temper the other two.</p>
+</div>",2023-03-30 12:44:40,,false,jeaju6e,false,t3_126rjun,t1_jeajmdz,2,false
+u/EloquentBorb,"You don't even have to take the competitors into consideration, the simple fact the 3060Ti can be had for 410$ is enough.
+
+None of these companies are anyone's friend. They simply want to extract as much money as they can from us. There are of course limits to how much people are willing and able to spend, but the crypto disaster has shown customers are willing to pay significant amounts of money to get the GPU they want, even if they are bad value compared to what was sold at an equal tier a few years ago.
+
+I don't expect this to change anytime soon, unless we either get serious competition to Nvidia's offers across the whole product stack (including their superior featureset and RT performance) or AMD/Intel decide they are willing to cut prices significantly in an aggressive move to gain market share.","<div class=""md""><p>You don&#39;t even have to take the competitors into consideration, the simple fact the 3060Ti can be had for 410$ is enough.</p>
+
+<p>None of these companies are anyone&#39;s friend. They simply want to extract as much money as they can from us. There are of course limits to how much people are willing and able to spend, but the crypto disaster has shown customers are willing to pay significant amounts of money to get the GPU they want, even if they are bad value compared to what was sold at an equal tier a few years ago.</p>
+
+<p>I don&#39;t expect this to change anytime soon, unless we either get serious competition to Nvidia&#39;s offers across the whole product stack (including their superior featureset and RT performance) or AMD/Intel decide they are willing to cut prices significantly in an aggressive move to gain market share.</p>
+</div>",2023-03-30 12:53:23,,false,jeal7mf,false,t3_126rjun,t1_jeajmdz,2,false
+u/SeptimusAstrum,"> None of these companies are anyone's friend. They simply want to extract as much money as they can from us.
+
+No fucking shit. Go teach third grade if you want to sound profound. I do not care about your moral crusade.
+
+I just want an explanation about why the 3060 is such an outlier, and what that means for my build strategy, which is essentially locked to Nvidia's machine learning suport.","<div class=""md""><blockquote>
+<p>None of these companies are anyone&#39;s friend. They simply want to extract as much money as they can from us.</p>
+</blockquote>
+
+<p>No fucking shit. Go teach third grade if you want to sound profound. I do not care about your moral crusade.</p>
+
+<p>I just want an explanation about why the 3060 is such an outlier, and what that means for my build strategy, which is essentially locked to Nvidia&#39;s machine learning suport.</p>
+</div>",2023-03-30 13:09:26,,false,jeanq4u,true,t3_126rjun,t1_jeal7mf,-2,false
+u/Sea-Quarter4350,Dang dude. You are asking for an explanation and this how you respond to someone answering your question.  It’s okay not agree and/or like a response but at least should some basic decency toward your fellow human; there was no hostility it their response.,"<div class=""md""><p>Dang dude. You are asking for an explanation and this how you respond to someone answering your question.  It’s okay not agree and/or like a response but at least should some basic decency toward your fellow human; there was no hostility it their response.</p>
+</div>",2023-03-30 18:25:47,,false,jec0w01,false,t3_126rjun,t1_jeanq4u,1,false
+u/SeptimusAstrum,"I honestly am just so fed up with the dozens of irrelevant replies I've gotten in this thread where the poster completely ignored my questions because they really just wanted an excuse to complain about crypto inflation.
+
+I simply do not care.
+
+I am here for utilitarian advice for how best to operate within the confines of reality.
+
+Thank you have a nice day!","<div class=""md""><p>I honestly am just so fed up with the dozens of irrelevant replies I&#39;ve gotten in this thread where the poster completely ignored my questions because they really just wanted an excuse to complain about crypto inflation.</p>
+
+<p>I simply do not care.</p>
+
+<p>I am here for utilitarian advice for how best to operate within the confines of reality.</p>
+
+<p>Thank you have a nice day!</p>
+</div>",2023-03-30 19:18:29,,false,jec8azp,true,t3_126rjun,t1_jec0w01,2,false
+u/Sea-Quarter4350,"That’s cool. As we know it’s Reddit and human nature lends itself to venting/complain on frustrations. I would skip all the gpu bs and reasons behind it. If you were/been rocking with a 1080Ti since launch, just get a 4080/4090. This gives you the best current in gaming with the ML capabilities. However, some will quip at the price point of both, etc, etc, which may or may not be valid for you….forgot to add. Yes you would be shooting in the foot getting a 3060 12gb, evening if you were not doing ML.","<div class=""md""><p>That’s cool. As we know it’s Reddit and human nature lends itself to venting/complain on frustrations. I would skip all the gpu bs and reasons behind it. If you were/been rocking with a 1080Ti since launch, just get a 4080/4090. This gives you the best current in gaming with the ML capabilities. However, some will quip at the price point of both, etc, etc, which may or may not be valid for you….forgot to add. Yes you would be shooting in the foot getting a 3060 12gb, evening if you were not doing ML.</p>
+</div>",2023-03-30 19:43:58,,2023-03-30 19:47:47,jecbu3d,false,t3_126rjun,t1_jec8azp,1,false
